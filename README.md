@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/manjiri-dhavtode" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
   </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+    <img align="center" src="https://play-lh.googleusercontent.com/76gEFhQto5xM…8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="linkedin" height="40" width="40"/>
+  </a>
+  
 </p>
 
 
