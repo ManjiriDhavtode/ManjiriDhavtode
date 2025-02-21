@@ -5,7 +5,7 @@
 👥 **Looking to collaborate on**: Open-source projects and innovative data-driven solutions  
 🥅 **2024 Goal**: Continue growing and making an impact with data  
 ✨ **Fun fact**: Cricket enthusiast who loves sketching in her free time!  
-💬 **Ask me about**: Python, VS Code, Statistics, Power BI, Excel, Machine Learning  
+💬 **Ask me about**: Python, VS Code, Statistics, Power BI, Excel, Machine Learning ,MySQL
 😄 **Pronouns**: she/her  
 
 ---
